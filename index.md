@@ -1,11 +1,7 @@
-# Marko Smilevski's Github Pages
+* Applying recent advances in VQA to Neural Record Linkage (https://github.com/msmilevski/nrl)
 
-This site is a homapage for all my projects and future blogs.
+* Earthqake prediction Kaggle Competition (https://github.com/msmilevski/mlp_lanl_earthquake_prediction)
 
-* Applying recent advances in VQA to Neural Record Linkage https://github.com/msmilevski/nrl
+* Visual Storytelling, generating stories from images (https://github.com/msmilevski/ai-visual-storytelling-seq2seq)
 
-* Earthqake prediction Kaggle Competition https://github.com/msmilevski/mlp_lanl_earthquake_prediction
-
-* Visual Storytelling, generating stories from images https://github.com/msmilevski/ai-visual-storytelling-seq2seq
-
-* Outfit recommendation system https://github.com/msmilevski/proekt_iis
+* Outfit recommendation system (https://github.com/msmilevski/proekt_iis)
