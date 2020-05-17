@@ -1,7 +1,7 @@
-* Applying recent advances in VQA to Neural Record Linkage [link to repo](https://github.com/msmilevski/nrl)
+### Applying recent advances in VQA to Neural Record Linkage [link to repo](https://github.com/msmilevski/nrl)
 
-* Earthqake prediction Kaggle Competition [link to repo](https://github.com/msmilevski/mlp_lanl_earthquake_prediction)
+### Earthqake prediction Kaggle Competition [link to repo](https://github.com/msmilevski/mlp_lanl_earthquake_prediction)
 
-* Visual Storytelling, generating stories from images [link to repo](https://github.com/msmilevski/ai-visual-storytelling-seq2seq)
+### Visual Storytelling, generating stories from images [link to repo](https://github.com/msmilevski/ai-visual-storytelling-seq2seq)
 
-* Outfit recommendation system [link to repo](https://github.com/msmilevski/proekt_iis)
+### Outfit recommendation system [link to repo](https://github.com/msmilevski/proekt_iis)
